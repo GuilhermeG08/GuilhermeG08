@@ -24,3 +24,6 @@ Sempre busco criar soluções acessíveis, responsivas e com boa experiência pa
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 
 ---
+### 📫 Redes
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-gomes-fend/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermedrg11@gmail.com)
