@@ -1,6 +1,6 @@
-## 👋 Olá! Me chamo Guilherme,
+## 👋 Olá! Me chamo Guilherme
 
-sou um **Desenvolvedor Full-Stack** com foco em **Front-End**, apaixonado por tecnologia e pela criação de interfaces intuitivas e funcionais.
+Sou um **Desenvolvedor Full-Stack** com foco em **Front-End**, apaixonado por tecnologia e pela criação de interfaces intuitivas e funcionais.
 
 Atualmente curso **Ciência da Computação** e tenho trabalhado em projetos próprios utilizando tecnologias como:
 
