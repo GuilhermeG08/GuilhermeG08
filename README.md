@@ -4,11 +4,11 @@ Sou um **Desenvolvedor Full-Stack** com foco em **Front-End**, apaixonado por te
 
 Atualmente curso **Ciência da Computação** e tenho trabalhado em projetos próprios utilizando tecnologias como:
 
-- 🖥️ HTML5 | CSS3 | JavaScript
-- ⚛️ React.js (com Vite)
-- 💾 LocalStorage para persistência de dados no navegador
-- ⚙️ C# para aplicações de back-end (projetos acadêmicos)
-- 🎨 Figma para UI/UX Design
+-  HTML5 | CSS3 | JavaScript
+-  React.js (com Vite)
+-  LocalStorage para persistência de dados no navegador
+-  C# para aplicações de back-end (projetos acadêmicos)
+-  Figma para UI/UX Design
 
 Sempre busco criar soluções acessíveis, responsivas e com boa experiência para o usuário final.
 
